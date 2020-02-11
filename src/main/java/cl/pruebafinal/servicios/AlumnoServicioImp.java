@@ -17,7 +17,7 @@ public class AlumnoServicioImp implements AlumnoServicio {
 
 	@Override
 	public void agregarMateria(String rutAlumno, Materia nuevaMateria) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub_
 		
 	}
 
